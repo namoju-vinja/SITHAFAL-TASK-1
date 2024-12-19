@@ -69,5 +69,5 @@ def main(pdf_path, user_query):
 # Example usage
 if __name__ == "__main__":
     pdf_path = "C:/Users/Vishpath/Downloads/Tables, Charts, and Graphs with Examples from History, Economics, Education, Psychology, Urban Affairs and Everyday Life - 2017-2018.pdf"
-    user_query = "What is the exact unemployment information based on type of degree input" 
+    user_query = "From page 2 get the exact unemployment information based on type of degree input" 
     main(pdf_path, user_query)
